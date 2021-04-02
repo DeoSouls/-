@@ -1,0 +1,10 @@
+C:\Users\pante\source\repos\шашки1\шашки1\bin\Debug\шашки1.exe.config
+C:\Users\pante\source\repos\шашки1\шашки1\bin\Debug\шашки1.exe
+C:\Users\pante\source\repos\шашки1\шашки1\bin\Debug\шашки1.pdb
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.csprojAssemblyReference.cache
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.Form1.resources
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.Properties.Resources.resources
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.csproj.GenerateResource.cache
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.csproj.CoreCompileInputs.cache
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.exe
+C:\Users\pante\source\repos\шашки1\шашки1\obj\Debug\шашки1.pdb
